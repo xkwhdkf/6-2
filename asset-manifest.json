@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/6-2/static/css/main.1d0c321b.css",
+    "main.js": "/6-2/static/js/main.a31fbf95.js",
+    "static/media/다울6.jpg": "/6-2/static/media/다울6.e1e8581a9d7f9ad5b3f6.jpg",
+    "static/media/다울5.jpg": "/6-2/static/media/다울5.f1b1ebc34ca061a0fd4d.jpg",
+    "static/media/다울1.jpg": "/6-2/static/media/다울1.158eac22d46ac90ab5c2.jpg",
+    "static/media/다울4.jpg": "/6-2/static/media/다울4.bdfdd4424181b08dc52c.jpg",
+    "static/media/다울2.jpg": "/6-2/static/media/다울2.2025dc94381c84a517e2.jpg",
+    "static/media/다울3.jpg": "/6-2/static/media/다울3.633e55ad63f6cbd76ac1.jpg",
+    "index.html": "/6-2/index.html",
+    "main.1d0c321b.css.map": "/6-2/static/css/main.1d0c321b.css.map",
+    "main.a31fbf95.js.map": "/6-2/static/js/main.a31fbf95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d0c321b.css",
+    "static/js/main.a31fbf95.js"
+  ]
+}
